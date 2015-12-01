@@ -196,3 +196,5 @@ def nonempty(series):
         if value is not None:
             return True
     return False
+
+
