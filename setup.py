@@ -6,7 +6,7 @@ from setuptools import setup, find_packages
 install_requires = [
     'Flask',
     'PyYAML',
-    'cairocffi',
+    'cairocffi==0.9.0',
     'pyparsing>=1.5.7',
     'pytz',
     'six',
